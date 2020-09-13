@@ -31,7 +31,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadsher&layout=compact)](https://github.com/Muhammadsher)
 
-![Muhammadsher's github stats](https://github-readme-stats.vercel.app/api?username=Muhammadsher&count_private=true&show_icons=true)
+[![Muhammadsher's github stats](https://github-readme-stats.vercel.app/api?username=Muhammadsher&count_private=true&show_icons=true)](https://github.com/Muhammadsher)
 
 [website]: https://mcard.uz
 [twitter]: https://twitter.com/MShermamatov
