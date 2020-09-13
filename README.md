@@ -30,6 +30,8 @@
 
 ![Muhammadsher's github stats](https://github-readme-stats.vercel.app/api?username=Muhammadsher&count_private=true&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadsher&layout=compact)]
+
 [website]: https://mcard.uz
 [twitter]: https://twitter.com/MShermamatov
 [linkedin]: https://www.linkedin.com/in/mukhammadsher-shermamatov/
