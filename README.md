@@ -26,6 +26,10 @@
 <br />
 <br />
 
+---
+
+![Muhammadsher's github stats](https://github-readme-stats.vercel.app/api?username=Muhammadsher&count_private=true&show_icons=true)
+
 [website]: https://mcard.uz
 [twitter]: https://twitter.com/MShermamatov
 [linkedin]: https://www.linkedin.com/in/mukhammadsher-shermamatov/
