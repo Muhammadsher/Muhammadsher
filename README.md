@@ -29,12 +29,9 @@
 
 ---
 
-<a href="https://github.com/Muhammadsher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammadsher&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/Muhammadsher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadsher&layout=compact" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadsher&layout=compact)
+
+![Muhammadsher's github stats](https://github-readme-stats.vercel.app/api?username=Muhammadsher&count_private=true&show_icons=true)
 
 [website]: https://mcard.uz
 [twitter]: https://twitter.com/MShermamatov
