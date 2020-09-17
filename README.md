@@ -29,11 +29,11 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadsher&layout=compact)](https://github.com/Muhammadsher)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadsher&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Muhammadsher's github stats](https://github-readme-stats.vercel.app/api?username=Muhammadsher&count_private=true&include_all_commits&show_icons=true)](https://github.com/Muhammadsher)
+[![Muhammadsher's github stats](https://github-readme-stats.vercel.app/api?username=Muhammadsher&count_private=true&include_all_commits&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Muhammadsher's github stats](https://api.fizmasoft.uz/mcard/rank?username=Muhammadsher&country_code=uzbekistan&show_private=true)](https://github.com/Muhammadsher)
+[![Muhammadsher's github stats](https://api.fizmasoft.uz/mcard/rank?username=Muhammadsher&country_code=uzbekistan&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
 
 [website]: https://mcard.uz
 [twitter]: https://twitter.com/MShermamatov
