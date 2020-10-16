@@ -39,16 +39,8 @@
 </p></a></p>
 
 <p align="center"><a href="https://github.com/Muhammadsher/github-readme-ranking">
-  <img src="https://api.fizmasoft.uz/mcard/rank?username=Muhammadsher&country_code=uzbekistan&show_private=true" />
+  <img src="https://github-readme-ranking.vercel.app/api/rank?username=Muhammadsher&country_code=uzbekistan&show_private=true" />
 </a></p>
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadsher&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Muhammadsher's github stats](https://github-readme-stats.vercel.app/api?username=Muhammadsher&count_private=true&include_all_commits&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Muhammadsher's github stats](https://api.fizmasoft.uz/mcard/rank?username=Muhammadsher&country_code=uzbekistan&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
--->
 
 [website]: https://mcard.uz
 [twitter]: https://twitter.com/MShermamatov
