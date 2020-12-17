@@ -30,12 +30,12 @@
 ---
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadsher&show_icons=true&include_all_commits=true&line_height=33&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammadsher&langs_count=4&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadsher&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammadsher&langs_count=4&count_private=true&theme=merko" />
 </a></p>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammadsher&margin-w=28&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammadsher&margin-w=28&margin-h=15&theme=onedark" />
 </p></a></p>
 
 <p align="center"><a href="https://github.com/Muhammadsher/github-readme-ranking">
