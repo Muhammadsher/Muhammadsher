@@ -39,7 +39,7 @@
 </p></a></p>
 
 <p align="center"><a href="https://github.com/Muhammadsher/github-readme-ranking">
-  <img src="https://github-readme-ranking.vercel.app/api/rank?username=Muhammadsher&country_code=uzbekistan&show_private=true" />
+  <img src="https://github-readme-ranking.vercel.app/api/rank?username=Muhammadsher&country_code=uzbekistan&show_private=true&theme=dark" />
 </a></p>
 
 [website]: https://mcard.uz
